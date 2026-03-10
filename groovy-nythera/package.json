@@ -1,0 +1,50 @@
+{
+  "name": "groovy-nythera",
+  "displayName": "Groovy Nythera",
+  "description": "Groovy Nythera is a dark Visual Studio Code theme that combines the Nythera UI with Gruvbox-inspired syntax colors for a warm and readable coding experience.",
+  "version": "1.0.0",
+  "publisher": "sumit-dev",
+  "icon": "groovy-nythera.png",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#0f161f",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/developer-sumit-web/groovy-nythera-theme",
+  "bugs": {
+    "url": "https://github.com/developer-sumit-web/groovy-nythera-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developer-sumit-web/groovy-nythera-theme"
+  },
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "dark theme",
+    "theme",
+    "vscode theme",
+    "color-theme",
+    "developer theme",
+    "gruvbox",
+    "gruvbox inspired",
+    "nythera",
+    "groovy nythera",
+    "dark vscode theme",
+    "programming theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Groovy Nythera",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Groovy Nythera-color-theme.json"
+      }
+    ]
+  }
+}
