@@ -4,7 +4,7 @@ All notable changes to **Nythera Nightcode** are documented here.
 
 ---
 
-## [1.2.0] - 2026-04-13
+## [2.0.0] - 2026-04-14
 
 ### Changed
 
@@ -19,12 +19,8 @@ All notable changes to **Nythera Nightcode** are documented here.
 
 ### Added
 
-- Initial release of **Nythera Nightcode**
-- Deep navy UI designed for a calm and minimal interface
-- Warm, dimmed syntax palette focused on readability
-- Carefully tuned semantic token colors
-- Consistent contrast across editor, sidebar, and UI elements
-- Terminal ANSI color palette aligned with the theme
+- Initial release of the theme (previously under a different name)
+- Core dark UI structure and base color system
 
 ### Notes
 
