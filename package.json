@@ -1,0 +1,51 @@
+{
+  "name": "nythera-nightcode",
+  "displayName": "Nythera Nightcode",
+  "description": "Warm, dimmed dark theme with balanced contrast and clear syntax for comfortable long coding sessions.",
+  "version": "1.2.0",
+  "publisher": "sumit-dev",
+  "icon": "nythera-nightcode.png",
+  "license": "MIT",
+  "preview": true,
+  "galleryBanner": {
+    "color": "#0f161f",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/developer-sumit-web/nythera-nightcode-theme",
+  "bugs": {
+    "url": "https://github.com/developer-sumit-web/nythera-nightcode-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developer-sumit-web/nythera-nightcode-theme"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "dark theme",
+    "vscode theme",
+    "color-theme",
+    "minimal",
+    "clean",
+    "developer",
+    "night",
+    "low eye strain",
+    "warm",
+    "coding",
+    "nythera"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nythera Nightcode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nythera-nightcode-color-theme.json"
+      }
+    ]
+  }
+}
