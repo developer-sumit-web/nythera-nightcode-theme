@@ -10,7 +10,7 @@ A dark theme that won’t burn your eyes at 2AM.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/Assets/preview-main.png" alt="Nythera Nightcode Preview" width="900"/>
+<img src="https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/82a29b06c6236ca594a3e02624522a236e0c3565/preview-main.png" alt="Nythera Nightcode Preview" width="900"/>
 
 </p>
 
@@ -119,11 +119,19 @@ For more previews across different languages:
 
 ### JavaScript
 
-![JavaScript](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/Assets/screenshots/javascript.png)
+![JavaScript](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/screenshots/javascript.png)
+
+### Java
+
+![Java](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/screenshots/java.png)
+
+### C++
+
+![C++](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/screenshots/cpp.png)
 
 ### Python
 
-![Python](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/Assets/screenshots/python.png)
+![Python](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/screenshots/python.png)
 
 </details>
 
@@ -221,4 +229,4 @@ If you forget the theme is even there… it’s working.
 
 Want to know how the theme was designed and refined?
 
-👉 See: CASE-STUDY.md
+👉 [Read the case study](./CASE-STUDY.md)
