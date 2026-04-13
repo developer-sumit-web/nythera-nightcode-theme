@@ -18,7 +18,7 @@ A dark theme that won’t burn your eyes at 2AM.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/82a29b06c6236ca594a3e02624522a236e0c3565/preview-main.png" width="900"/>
+![Nythera Nightcode Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/preview-main.png)
 
 </p>
 
@@ -118,9 +118,6 @@ For more previews across different languages:
 
 > Preview captured using **Fira Code**
 
-<details>
-<summary><strong>Quick preview</strong></summary>
-
 ### JavaScript
 
 ![JavaScript](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/screenshots/javascript.png)
@@ -137,16 +134,11 @@ For more previews across different languages:
 
 ![Python](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/screenshots/python.png)
 
-</details>
-
 ---
 
 ## 🧩 UI Setup (Optional)
 
 The preview uses a mostly default VS Code layout with a few minor tweaks for clarity.
-
-<details>
-<summary><strong>Click to expand and view settings</strong></summary>
 
 ```json
 {
@@ -180,8 +172,6 @@ The preview uses a mostly default VS Code layout with a few minor tweaks for cla
   "editor.bracketPairColorization.enabled": true
 }
 ```
-
-</details>
 
 You don’t need to apply all of these — even a few of them can improve the experience.
 

@@ -9,6 +9,7 @@ All notable changes to **Nythera Nightcode** are documented here.
 ### Changed
 
 - Minor documentation refinement
+- 
 
 ---
 
