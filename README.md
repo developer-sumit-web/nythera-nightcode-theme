@@ -10,15 +10,19 @@ A dark theme that won’t burn your eyes at 2AM.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/82a29b06c6236ca594a3e02624522a236e0c3565/preview-main.png" alt="Nythera Nightcode Preview" width="900"/>
+<a href="https://marketplace.visualstudio.com/items?itemName=sumit-dev.nythera-nightcode">
+  <img src="https://img.shields.io/badge/Install%20Theme-0f161f?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</a>
 
 </p>
 
 <p align="center">
 
-<a href="https://marketplace.visualstudio.com/items?itemName=sumit-dev.nythera-nightcode">
-  <img src="https://img.shields.io/badge/Install%20Theme-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</a>
+<img src="https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/82a29b06c6236ca594a3e02624522a236e0c3565/preview-main.png" width="900"/>
+
+</p>
+
+<p align="center">
 
 <a href="https://github.com/developer-sumit-web/nythera-nightcode-theme">
   <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -51,11 +55,11 @@ A dark theme that won’t burn your eyes at 2AM.
 
 ## ✨ What this is
 
-Nythera Nightcode is a dark theme for people who:
+A dark theme focused on clarity, designed to stay readable without visual fatigue.
 
-- code for hours
-- hate overly bright themes
-- also hate when everything starts looking the same
+- Stays comfortable even during extended use
+- Avoids harsh brightness and washed-out colors
+- Keeps syntax separation clear even in complex code
 
 Built for long debugging sessions… when your eyes give up before the bug does.
 
@@ -84,19 +88,19 @@ Just something that stays stable.
 Reduced intensity for comfortable viewing
 
 **Clear Syntax**
-Clear distinction between functions, variables, keywords
+Functions, variables, and keywords stay distinct
 
 **Warm Colors**
-Balanced tones without harsh contrast
+No harsh contrast, no neon overload
 
 **Consistent UI**
-Editor, sidebar, and panels follow a unified style
+Editor, sidebar, panels feel unified
 
 **Low Visual Noise**
-Minimal distractions so focus stays on code
+Less distraction, more focus
 
 **Multi-language Ready**
-Consistent behavior across different languages
+Doesn’t break when switching files
 
 ---
 
@@ -200,7 +204,7 @@ If it looks different:
 
 ---
 
-## 🧠 How it feels
+## 🧠 What you’ll notice
 
 **Calm Interface**
 Nothing pulls your attention away from the code.
@@ -225,8 +229,8 @@ If you forget the theme is even there… it’s working.
 
 </p>
 
-## 📄 Case Study
+### 📄 Case Study
 
 Want to know how the theme was designed and refined?
 
-👉 [Read the case study](./CASE-STUDY.md)
+👉 [Read the case study](https://github.com/developer-sumit-web/nythera-nightcode-theme/blob/main/CASE-STUDY.md)

@@ -4,13 +4,21 @@ All notable changes to **Nythera Nightcode** are documented here.
 
 ---
 
+## [2.0.1] - 2026-04-14
+
+### Changed
+
+- Minor documentation refinement
+
+---
+
 ## [2.0.0] - 2026-04-14
 
 ### Changed
 
 - Renamed theme to **Nythera Nightcode**
 - Rebalanced color palette for better harmony across UI and syntax
-- Improved contrast tuning for clearer readability in long sessions
+- Improved contrast tuning for clearer readability
 - Updated branding, preview assets, and repository structure
 
 ---

@@ -1,12 +1,11 @@
 {
   "name": "nythera-nightcode",
   "displayName": "Nythera Nightcode",
-  "description": "Warm, dimmed dark theme with balanced contrast and clear syntax for comfortable long coding sessions.",
-  "version": "2.0.0",
+  "description": "A low eye strain dark theme for VS Code, designed for long coding sessions with clear syntax and balanced contrast.",
+  "version": "2.0.1",
   "publisher": "sumit-dev",
   "icon": "nythera-nightcode.png",
   "license": "MIT",
-  "preview": true,
   "galleryBanner": {
     "color": "#0f161f",
     "theme": "dark"
@@ -26,17 +25,17 @@
     "Themes"
   ],
   "keywords": [
-    "dark",
     "dark theme",
-    "vscode theme",
-    "color-theme",
-    "minimal",
-    "clean",
-    "developer",
-    "night",
-    "low eye strain",
-    "warm",
-    "coding",
+    "vscode dark theme",
+    "low eye strain theme",
+    "night coding theme",
+    "minimal dark theme",
+    "warm dark theme",
+    "backend coding theme",
+    "long coding sessions",
+    "developer dark theme",
+    "high readability theme",
+    "coding comfort",
     "nythera"
   ],
   "contributes": {
