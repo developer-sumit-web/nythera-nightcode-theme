@@ -84,22 +84,22 @@ Just something that stays stable.
 
 ## 🎨 Features
 
-**Dimmed Palette**
+**Dimmed Palette :**
 Reduced intensity for comfortable viewing
 
-**Clear Syntax**
+**Clear Syntax :**
 Functions, variables, and keywords stay distinct
 
-**Warm Colors**
+**Warm Colors :**
 No harsh contrast, no neon overload
 
-**Consistent UI**
+**Consistent UI :**
 Editor, sidebar, panels feel unified
 
-**Low Visual Noise**
+**Low Visual Noise :**
 Less distraction, more focus
 
-**Multi-language Ready**
+**Multi-language Ready :**
 Doesn’t break when switching files
 
 ---
