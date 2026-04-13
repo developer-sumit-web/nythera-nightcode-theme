@@ -44,76 +44,6 @@ A dark theme that won’t burn your eyes at 2AM.
 
 ---
 
-## ⚡ Quick Look
-
-- Easy on the eyes (actually)
-- Clear syntax without glowing neon everywhere
-- Works across languages without falling apart
-- Built for long coding sessions
-
----
-
-## ✨ What this is
-
-A dark theme focused on clarity, designed to stay readable without visual fatigue.
-
-- Stays comfortable even during extended use
-- Avoids harsh brightness and washed-out colors
-- Keeps syntax separation clear even in complex code
-
-Built for long debugging sessions… when your eyes give up before the bug does.
-
----
-
-## 🎯 Why this exists
-
-Most dark themes do one of these:
-
-- look amazing → hurt your eyes later
-- look calm → but you can’t tell what’s what
-
-This tries to avoid both.
-
-- no harsh whites
-- no washed-out syntax
-- no “why is everything grey?” moments
-
-Just something that stays stable.
-
----
-
-## 🎨 Features
-
-**Dimmed Palette :**
-Reduced intensity for comfortable viewing
-
-**Clear Syntax :**
-Functions, variables, and keywords stay distinct
-
-**Warm Colors :**
-No harsh contrast, no neon overload
-
-**Consistent UI :**
-Editor, sidebar, panels feel unified
-
-**Low Visual Noise :**
-Less distraction, more focus
-
-**Multi-language Ready :**
-Doesn’t break when switching files
-
----
-
-## 💻 Tested With
-
-`JavaScript` • `TypeScript` • `Python` • `Java` • `C` • `C++`
-`HTML` • `CSS` • `JSON` • `Markdown`
-
-For more previews across different languages:
-👉 https://github.com/developer-sumit-web/nythera-nightcode-assets
-
----
-
 ## 🖼 Preview
 
 > Preview captured using **Fira Code**
@@ -133,6 +63,89 @@ For more previews across different languages:
 ### Python
 
 ![Python](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/screenshots/python.png)
+
+---
+
+## ⚡ Quick Look
+
+- Easy on the eyes without being overly dim
+- Clear syntax without glowing neon everywhere
+- Works across languages without falling apart
+- Built for focused work
+
+---
+
+## ✨ What this is
+
+A dark theme focused on clarity with a dimmed, balanced color system.
+
+- Maintains clarity without becoming distracting
+- Avoids harsh brightness and washed-out colors
+- Keeps syntax separation clear even in complex code
+
+Built for long debugging sessions… when your eyes give up before the bug does.
+
+---
+
+## 🧠 What you’ll notice
+
+****Calm Interface****
+Nothing pulls your attention away from the code.
+
+****Controlled Contrast****
+Readable, but not overwhelming.
+
+****Consistency****
+Colors stay predictable across different files.
+
+---
+
+## 🎯 Why this exists
+
+Most dark themes either:
+
+- look good but become distracting over time
+- or look calm but lose clarity
+
+This tries to balance both.
+
+- no harsh whites
+- no washed-out syntax
+- no “why is everything grey?” moments
+
+For a stable, predictable, and visually pleasing experience.
+
+---
+
+## 🎨 Features
+
+****Dimmed Palette:****
+Reduced intensity for comfortable viewing
+
+****Clear Syntax:****
+Functions, variables, and keywords stay distinct
+
+****Warm Colors:****
+No harsh contrast, no neon overload
+
+****Consistent UI:****
+Editor, sidebar, panels feel unified
+
+****Low Visual Noise:****
+Less distraction, more focus
+
+****Multi-language Ready:****
+Doesn’t break when switching files
+
+---
+
+## 💻 Tested With
+
+`JavaScript` • `TypeScript` • `Python` • `Java` • `C` • `C++`
+`HTML` • `CSS` • `JSON` • `Markdown`
+
+For more previews across different languages:
+👉 https://github.com/developer-sumit-web/nythera-nightcode-assets
 
 ---
 
@@ -194,19 +207,6 @@ If it looks different:
 
 ---
 
-## 🧠 What you’ll notice
-
-**Calm Interface**
-Nothing pulls your attention away from the code.
-
-**Controlled Contrast**
-Readable, but not overwhelming.
-
-**Consistency**
-Same colors mean the same things across files.
-
----
-
 ## 📝 License
 
 MIT License
@@ -218,9 +218,3 @@ MIT License
 If you forget the theme is even there… it’s working.
 
 </p>
-
-### 📄 Case Study
-
-Want to know how the theme was designed and refined?
-
-👉 [Read the case study](https://github.com/developer-sumit-web/nythera-nightcode-theme/blob/main/CASE-STUDY.md)

@@ -1,8 +1,8 @@
 {
   "name": "nythera-nightcode",
   "displayName": "Nythera Nightcode",
-  "description": "A low eye strain dark theme for VS Code, designed for long coding sessions with clear syntax and balanced contrast.",
-  "version": "2.0.1",
+  "description": "A dimmed dark theme for VS Code focused on clear syntax and balanced contrast.",
+  "version": "2.1.0",
   "publisher": "sumit-dev",
   "icon": "nythera-nightcode.png",
   "license": "MIT",

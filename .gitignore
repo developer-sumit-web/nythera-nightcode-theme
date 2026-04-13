@@ -1,7 +1,11 @@
 node_modules/
 .vscode/
+
 *.vsix
 *.log
+*.zip
+
 .DS_Store
 .vscodeignore
-*.zip
+
+CASE-STUDY.md
