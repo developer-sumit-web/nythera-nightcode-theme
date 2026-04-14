@@ -76,13 +76,13 @@ Built for long debugging sessions… when your eyes give up before the bug does.
 
 ## 🧠 What you’ll notice
 
-**Calm Interface**
+**Calm Interface:**
 Nothing pulls attention away from the code.
 
-**Controlled Contrast**
+**Controlled Contrast:**
 Readable, but not overwhelming.
 
-**Consistency**
+**Consistency:**
 Colors stay predictable across different files.
 
 ---
