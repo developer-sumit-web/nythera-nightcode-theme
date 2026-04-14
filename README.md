@@ -1,50 +1,45 @@
-<p align="center">
+<div align="center">
+  <img src="https://github.com/developer-sumit-web/nythera-nightcode-theme/raw/main/nythera-nightcode.png" width="128" height="128" alt="Nythera Nightcode Icon">
 
-# Nythera Nightcode
+  <img src="https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/Nythera-Nightcode-Header.png" alt="Nythera-Nightcode-Header">
 
-</p>
+  <p>A dark theme that won’t burn your eyes at 2AM.</p>
 
-<p align="center">
-A dark theme that won’t burn your eyes at 2AM.
-</p>
+<br>
 
-<p align="center">
+  <img src="https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/preview-main.png" alt="Nythera Nightcode Preview">
 
-<a href="https://marketplace.visualstudio.com/items?itemName=sumit-dev.nythera-nightcode">
-  <img src="https://img.shields.io/badge/Install%20Theme-0f161f?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</a>
-
-</p>
-
-<p align="center">
-
-![Nythera Nightcode Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/preview-main.png)
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/developer-sumit-web/nythera-nightcode-theme">
-  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/developer-sumit-web/nythera-nightcode-assets">
-  <img src="https://img.shields.io/badge/Assets%20Preview-24292E?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/visual-studio-marketplace/v/sumit-dev.nythera-nightcode?style=flat-square&color=0f161f&label=version">
-<img src="https://img.shields.io/visual-studio-marketplace/i/sumit-dev.nythera-nightcode?style=flat-square&color=0f161f&label=installs">
-<img src="https://img.shields.io/badge/license-MIT-0f161f?style=flat-square">
-
-</p>
+  <a href="https://github.com/developer-sumit-web/nythera-nightcode-theme">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=DAD3BD" alt="GitHub Repo">
+  </a>
+  <a href="https://github.com/developer-sumit-web/nythera-nightcode-assets">
+    <img src="https://img.shields.io/badge/Assets%20Preview-24292e?style=for-the-badge&logo=github&logoColor=DAD3BD" alt="Assets Preview">
+  </a>
+  <br>
+  <img src="https://img.shields.io/visual-studio-marketplace/v/sumit-dev.nythera-nightcode?style=flat-square&color=151e29&label=version" alt="Version">
+  <img src="https://img.shields.io/visual-studio-marketplace/i/sumit-dev.nythera-nightcode?style=flat-square&color=151e29&label=installs" alt="Installs">
+  <img src="https://img.shields.io/badge/license-MIT-151e29?style=flat-square" alt="License">
+</div>
 
 ---
 
-## 🖼 Preview
+## 📥 Installation
+
+1. Open Visual Studio Code.
+2. Press `Ctrl + Shift + X` to open the Extensions panel.
+3. Type **Nythera Nightcode** in the search bar.
+4. Click the **Install** button.
+5. Click **Set Color Theme** and choose Nythera Nightcode.
+<br>
+<div align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=sumit-dev.nythera-nightcode">
+  <img src="https://img.shields.io/badge/Or%20click%20here%20to%20Install%20from%20Marketplace-011628?style=for-the-badge&logo=visualstudiocode&logoColor=DAD3BD" />
+</a>
+</div>
+
+---
+
+## 🖼️ Preview
 
 > Preview captured using **Fira Code**
 
@@ -66,22 +61,14 @@ A dark theme that won’t burn your eyes at 2AM.
 
 ---
 
-## ⚡ Quick Look
-
-- Easy on the eyes without being overly dim
-- Clear syntax without glowing neon everywhere
-- Works across languages without falling apart
-- Built for focused work
-
----
-
 ## ✨ What this is
 
-A dark theme focused on clarity with a dimmed, balanced color system.
+A dark theme focused on long-term comfort.
 
-- Maintains clarity without becoming distracting
-- Avoids harsh brightness and washed-out colors
-- Keeps syntax separation clear even in complex code
+- Low-luminance background to reduce visual fatigue
+- Reduced brightness in syntax colors to avoid harsh contrast
+- Keeps syntax clear and easy to read
+- Syntax colors are based on Gruvbox, retuned for a softer, lower-contrast look.
 
 Built for long debugging sessions… when your eyes give up before the bug does.
 
@@ -89,53 +76,46 @@ Built for long debugging sessions… when your eyes give up before the bug does.
 
 ## 🧠 What you’ll notice
 
-****Calm Interface****
-Nothing pulls your attention away from the code.
+**Calm Interface**
+Nothing pulls attention away from the code.
 
-****Controlled Contrast****
+**Controlled Contrast**
 Readable, but not overwhelming.
 
-****Consistency****
+**Consistency**
 Colors stay predictable across different files.
 
 ---
 
 ## 🎯 Why this exists
 
-Most dark themes either:
+I kept running into the same problems with dark themes:
 
-- look good but become distracting over time
-- or look calm but lose clarity
+- some looked good but became tiring after a while
+- some were so low contrast that everything felt washed out
+- others used strong colors that were distracting over time
 
-This tries to balance both.
+Even themes that claimed to be “low contrast” didn’t always feel comfortable to use.
 
-- no harsh whites
-- no washed-out syntax
-- no “why is everything grey?” moments
+So I built this for myself — something calmer, more balanced, and easier to work with for long sessions.
 
-For a stable, predictable, and visually pleasing experience.
+Over time, it felt worth sharing.
 
 ---
 
 ## 🎨 Features
 
-****Dimmed Palette:****
-Reduced intensity for comfortable viewing
+**Retuned Syntax Colors:**
+Based on Gruvbox, adjusted to reduce brightness and harsh contrast
 
-****Clear Syntax:****
-Functions, variables, and keywords stay distinct
+**Low-Luminance Background:**
+Dark base designed to minimize glare in low-light environments
 
-****Warm Colors:****
-No harsh contrast, no neon overload
+**Balanced Contrast:**
+Avoids both washed-out greys and overly bright highlights
 
-****Consistent UI:****
-Editor, sidebar, panels feel unified
-
-****Low Visual Noise:****
-Less distraction, more focus
-
-****Multi-language Ready:****
-Doesn’t break when switching files
+**UI Integration:**
+Editor and interface colors are kept consistent
 
 ---
 
@@ -149,12 +129,13 @@ For more previews across different languages:
 
 ---
 
-## 🧩 UI Setup (Optional)
+## 🧩 UI Setup (Mine)
 
 The preview uses a mostly default VS Code layout with a few minor tweaks for clarity.
 
 ```json
 {
+  "editor.fontFamily": "'Fira Code', monospace",
   "workbench.sideBar.location": "right",
   "workbench.activityBar.location": "top",
 
@@ -207,14 +188,19 @@ If it looks different:
 
 ---
 
+## 🐛 Feedback & Issues
+
+Found a bug or have an idea to make the theme better?
+👉 [Open an Issue on GitHub](https://github.com/developer-sumit-web/nythera-nightcode-theme/issues)
+
+---
+
 ## 📝 License
 
 MIT License
 
 ---
 
-<p align="center">
-
-If you forget the theme is even there… it’s working.
-
-</p>
+<div align="center">
+  <p>If you forget the theme is even there… it’s working.</p>
+</div>
